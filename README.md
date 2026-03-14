@@ -1,4 +1,4 @@
-# ShaggaClaw: An OpenClaw Agent that believes it is a Tribesman of the Vale of Arryn!
+# ShaggaClaw: An OpenClaw Agent that believes it is a Tribesman of the Vale of Arryn
 
 Based on the lesson plan at [this course]().
 
