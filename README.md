@@ -2,7 +2,7 @@
 
 Based on the lesson plan at [this course]().
 ### Note: Although this project is set up to easily integrate a KIMI API key and Telegram Bot token, it will cost you a few cents to try this.
-- It probably isn't worth it! (The screenshot above should be proof of concept enough.)
+- It probably isn't worth it! (The screenshot below should be proof of concept enough.)
 
 <img src="images/shagga1.png" width="48%"> <img src="images/Shagga2.png" width="48%">
 
