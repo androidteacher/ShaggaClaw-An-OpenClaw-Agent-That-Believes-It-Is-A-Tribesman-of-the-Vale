@@ -1,6 +1,6 @@
 # ShaggaClaw: An OpenClaw Agent that believes it is a Tribesman of the Vale of Arryn
 
-Based on the lesson plan at [this course]().
+Based on the lesson plan at [this course](https://www.notion.so/Inside-OpenClaw-Deploying-Sniffing-and-Hijacking-the-Agent-3224c8e523768080bcdbe0661a560c40?source=copy_link).
 ### Note: Although this project is set up to easily integrate a KIMI API key and Telegram Bot token, it will cost you a few cents to try this.
 - It probably isn't worth it! (The screenshot below should be proof of concept enough.)
 
